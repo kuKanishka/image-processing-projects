@@ -6,3 +6,4 @@ The scripts are projects that work real time.
 3. documentScanner.py is a script that converts a picture of a bill into a document by automatically cropping and aligning the edges,
 4. text_recognition.py detects and recognizes texts in natural scenes using the EAST deep learning model.
 5. sizeApproximator.py is a scrit that helps find the dimensions of various objects based on the dimensions of a reference object.
+
